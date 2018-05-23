@@ -1,1 +1,2 @@
 clone say hello world!
+I say how are you!
