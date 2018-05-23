@@ -1,2 +1,3 @@
 clone say hello world!
 clone say what`s your name?
+I say how are you!
